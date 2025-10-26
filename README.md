@@ -11,7 +11,7 @@ My journey from healthcare to software engineering has led me to discover my pas
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/YOUR-USERNAME/Cybersecurity-Projects/tree/main/01-SOC-Operations">SOC Operations & Incident Response</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/imancyber/Cybersecurity-Projects/tree/main/01-SOC-Operations">SOC Operations & Incident Response</a>|
 | Threat Investigation and Forensic Analysis    | <a href="https://github.com/YOUR-USERNAME/Cybersecurity-Projects/tree/main/02-Threat-Investigation">PayPal Account Compromise Investigation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/YOUR-USERNAME/Cybersecurity-Projects/tree/main/02-Threat-Investigation">PCAP Analysis Project</a>|
 | Penetration Testing & Vulnerability Research  | <a href="https://github.com/YOUR-USERNAME/Cybersecurity-Projects/tree/main/03-Penetration-Testing">Black-Box Penetration Test</a>|
