@@ -14,7 +14,7 @@ My journey from healthcare to software engineering has led me to discover my pas
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/imancyber/Cybersecurity-Projects/tree/main/01-SOC-Operations">SOC Operations & Incident Response</a>|
 | Threat Investigation and Forensic Analysis    | <a href="https://github.com/YOUR-USERNAME/Cybersecurity-Projects/tree/main/02-Threat-Investigation">PayPal Account Compromise Investigation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/YOUR-USERNAME/Cybersecurity-Projects/tree/main/02-Threat-Investigation">PCAP Analysis Project</a>|
-| Penetration Testing & Vulnerability Research  | <a href="https://github.com/YOUR-USERNAME/Cybersecurity-Projects/tree/main/03-Penetration-Testing">Black-Box Penetration Test</a>|
+| Penetration Testing & Vulnerability Research  | <a href="https://github.com/imancyber/Cybersecurity-Projects/tree/main/02-Penetration-Testing">Penetration Testing & Vulnerability Research</a>|
 | Vulnerability Assessment and Risk Management  | <a href="https://github.com/YOUR-USERNAME/Cybersecurity-Projects/tree/main/04-Vulnerability-Assessment">Nessus Vulnerability Scanning</a>|
 | Cloud Security Architecture                   | <a href="https://github.com/YOUR-USERNAME/Cybersecurity-Projects/tree/main/05-Cloud-Security">AWS Secure Infrastructure Design</a>|
 | Security Compliance and Policy Development    | <a href="https://github.com/YOUR-USERNAME/Cybersecurity-Projects/tree/main/06-Compliance">ISO 27001 Password Policy Review</a>|
